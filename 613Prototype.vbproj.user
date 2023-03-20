@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Alert.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarBooking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="carFeatures.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CarScheduler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConfirmationWindow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="carMedia.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControl1.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
